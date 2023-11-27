@@ -1,0 +1,10 @@
+{
+"version": "1.0",
+"title": "New Update Available",
+"NewVersion": "1.0",
+"downloadLink": "https://shabidmod.lovestoblog.com",
+"changeLogMessage": "• New Update Version \n\n Added Golden Theme",
+"negativebtn": "Later",
+"positivebtn": "Update Now",
+"changelogTitle": "base Version v22"
+}
