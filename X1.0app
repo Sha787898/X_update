@@ -1,10 +1,10 @@
 {
-"version": "1.0",
+"version": "10.4.0-release.0",
 "title": "New Update Available",
-"NewVersion": "1.0",
+"NewVersion": "1.10  ",
 "downloadLink": "https://shabidmod.lovestoblog.com",
-"changeLogMessage": "• New Update Version \n\n Added Golden Theme",
+"changeLogMessage": "• New Update Version \n\n Added new feature",
 "negativebtn": "Later",
 "positivebtn": "Update Now",
-"changelogTitle": "base Version v22"
+"changelogTitle": "  Version "
 }
